@@ -10,7 +10,7 @@ Harold's company has just started a new Real Estate Investment division to provi
 
 This dashboard's goal is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in Toronto.
 
-In this homework assignment, you will help Harold accomplish the following tasks:
+You will help Harold accomplish the following tasks:
 
 1. [Complete a notebook of rental analysis](#Rental-Analysis)
 
