@@ -1,8 +1,9 @@
 # <p align="center"> <span style="color:gold">**UNIT 6 - PYTHONIC MONOPOLY**</span>
 ## <p align="center"> <span style="color:turquoise">**Dashboard Explained**</span>
 
+![Toronto at night](Images/toronto.jpg)
 <p align="center">
-<![Toronto at night](Images/toronto.jpg)
+<
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 <p>&nbsp;
