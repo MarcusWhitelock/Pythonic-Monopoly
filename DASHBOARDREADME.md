@@ -2,7 +2,7 @@
 ## <p align="center"> <span style="color:turquoise">**Dashboard Explained**</span>
 
 <p align="center">
-![Toronto at night](Images/toronto.jpg)
+<![Toronto at night](Images/toronto.jpg)
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 <p>&nbsp;
