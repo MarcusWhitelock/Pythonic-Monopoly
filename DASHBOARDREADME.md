@@ -3,10 +3,6 @@
 
 ![Toronto at night](Images/toronto.jpg)
 <p align="center">
-<
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-<p>&nbsp;
 
 
 ## <p align="center"> <span style="color:turquoise">**Description**</span>
